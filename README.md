@@ -4,8 +4,9 @@
 - Interested in almost anything except that i don't like.(Obviously!)
 
 ## Other coding studies
-
-
+- BOJ Data structure and Algorithm Study
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eidophor)](https://solved.ac/eidophor)
 
 ## Fun facts
 - Was a youth(little league) baseball player when i was young.
