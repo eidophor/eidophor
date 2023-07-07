@@ -3,10 +3,10 @@
 - Business && Computer science. Studying both hard to get business implications by using Data and artificial intelligence.
 - Interested in almost anything except that i don't like.(Obviously!)
 
-## Other coding studies
-- BOJ Data structure and Algorithm Study
+## Other coding studies  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eidophor)](https://solved.ac/eidophor)
+- BOJ Data structure and Algorithm Study
 
 ## Fun facts
 - Was a youth(little league) baseball player when i was young.
