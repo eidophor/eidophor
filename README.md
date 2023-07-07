@@ -9,6 +9,6 @@
 - BOJ Data structure and Algorithm Study
 
 ## Fun facts
-- Was a youth(little league) baseball player when i was young.
+- Was a youth(little league) baseball player when young.
 - Had a mandatory military service at Camp Humphreys as a KATUSA during 21.05.10-22.11.09 as a HR specialist.
   
