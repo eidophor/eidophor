@@ -4,7 +4,7 @@
 - Interested in almost everything except that i don't like.(Obviously!)
 
 ## Education
-- Undergraduate student at Sogang University. (Mar 2019 - )
+- Undergraduate student at Sogang University. Business and Computer science double major. (Mar 2019 - )
 
 ## Awards
 - Winner of Dean's List for the 2020 fall Semester
