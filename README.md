@@ -3,6 +3,13 @@
 - Business && Computer science. Studying both hard to get business implications by using Data and artificial intelligence.
 - Interested in almost everything except that i don't like.(Obviously!)
 
+## Education
+- Undergraduate student at Sogang University. (Mar 2019 - )
+
+## Awards
+- Winner of Dean's List for the 2020 fall Semester
+- Top 1% awardee for the 2020 fall Semester
+
 ## Other coding studies  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eidophor)](https://solved.ac/eidophor)
