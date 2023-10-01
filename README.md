@@ -7,8 +7,9 @@
 - Undergraduate student at Sogang University. Business and Computer science double major. (Mar 2019 - )
 
 ## Awards
-- Winner of Dean's List for the 2020 fall Semester
-- Top 1% awardee for the 2020 fall Semester
+- Winner of Dean's List for the 2020 Fall Semester
+- Top 1% awardee for the 2020 Fall Semester
+- Winner of Dean's List for the 2023 Spring Semester
 
 ## Other studies  
 [![Solved.ac
