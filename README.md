@@ -14,7 +14,7 @@
 ## Other studies  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eidophor)](https://solved.ac/eidophor)
-- BOJ Data structure and Algorithm Study
+- BOJ Data structure and Algorithm self study
 
 ## Fun facts
 - Was a youth(little league) baseball player when young.
