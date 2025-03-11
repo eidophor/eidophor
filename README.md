@@ -10,6 +10,7 @@
 - Winner of Dean's List for the 2020 Fall Semester
 - Top 1% awardee for the 2020 Fall Semester
 - Winner of Dean's List for the 2023 Spring Semester
+- Certificate of Completion in Business Analytics Expert Program at Sogang University 
 
 ## Other studies  
 [![Solved.ac
@@ -19,4 +20,5 @@
 ## Fun facts
 - Was a youth(little league) baseball player when young.
 - Had a mandatory military service at Camp Humphreys as a KATUSA during 21.05.10-22.11.09 as a HR specialist.
+- Honor society member in Beta Gamma Sigma (The international honor society for collegiate schools of business)
   
