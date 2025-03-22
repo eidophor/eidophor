@@ -5,6 +5,7 @@
 
 ## Education
 - Undergraduate student at Sogang University. Business and Computer science double major. (Mar 2019 - )
+- Seoul Foreign Language High School Chinese Major(Mar 2016 ~ Feb 2019)
 
 ## Awards
 - Winner of Dean's List for the 2020 Fall Semester
