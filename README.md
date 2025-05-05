@@ -1,7 +1,6 @@
 ## KIM JEE SOO
 - Studying Business and Computer science in Sogang University. Keep pushing myself not to be complacent on the present.
 - Business && Computer science. Studying both hard to get business implications by using Data and artificial intelligence.
-- Interested in almost everything except that i don't like.(Obviously!)
 
 ## Education
 - Undergraduate student at Sogang University. Business and Computer science double major. (Mar 2019 - )
