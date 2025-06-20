@@ -1,21 +1,19 @@
 ## KIM JEE SOO
-- Studying Business and Computer science in Sogang University. Keep pushing myself not to be complacent on the present.
+- Hello! I'm currently a Master's student in the Graduate School of Data Science at KAIST (Korea Advanced Institute of Science and Technology).  
+My interests lie in data analysis in corporate environments and solving real-world problems using Multimodal models.
 - Business && Computer science. Studying both hard to get business implications by using Data and artificial intelligence.
 
 ## Education
-- Undergraduate student at Sogang University. Business and Computer science double major. (Mar 2019 - )
-- Seoul Foreign Language High School Chinese Major(Mar 2016 ~ Feb 2019)
+- M.S. in Graduate School of Data Science  (SEP 2025 - Now)
+- B.A. in the Sogang Business School, Sogang University (Mar 2019 - AUG 2025)
+- B.S. in the Dept. of Computer Science & Engineering, Sogang University, Double major. (Mar 2019 - AUG 2025)
+- Seoul Foreign Language High School, Chinese Major (Mar 2016 ~ Feb 2019)
 
 ## Awards
 - Winner of Dean's List for the 2020 Fall Semester
 - Top 1% awardee for the 2020 Fall Semester
 - Winner of Dean's List for the 2023 Spring Semester
 - Certificate of Completion in Business Analytics Expert Program at Sogang University 
-
-## Other studies  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eidophor)](https://solved.ac/eidophor)
-- BOJ Data structure and Algorithm self study
 
 ## Fun facts
 - Was a youth(little league) baseball player when young.
