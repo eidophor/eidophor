@@ -5,7 +5,7 @@ My interests lie in data analysis in corporate environments and solving real-wor
 - [**Homepage**](https://eidophor.github.io)
 
 ## Education
-- M.S. in Graduate School of Data Science  (SEP 2025 - Now)
+- M.S. in Graduate School of Data Science, KAIST (SEP 2025 - Now)
 - B.A. in the Sogang Business School, Sogang University (Mar 2019 - AUG 2025)
 - B.S. in the Dept. of Computer Science & Engineering, Sogang University, Double major. (Mar 2019 - AUG 2025)
 - Seoul Foreign Language High School, Chinese Major (Mar 2016 ~ Feb 2019)
