@@ -2,7 +2,7 @@
 - Hello! I'm currently a Master's student in the Graduate School of Data Science at KAIST (Korea Advanced Institute of Science and Technology).  
 My interests lie in data analysis in corporate environments and solving real-world problems using Multimodal models.
 - Business && Computer science. Studying both hard to get business implications by using Data and artificial intelligence.
-- Homepage!
+[**Homepage**🏠](https://eidophor.github.io)
 
 ## Education
 - M.S. in Graduate School of Data Science  (SEP 2025 - Now)
