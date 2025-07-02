@@ -1,5 +1,6 @@
 ## KIM JEE SOO
-- Hello! I'm currently a Master's student in the Graduate School of Data Science at KAIST (Korea Advanced Institute of Science and Technology).  
+- Hello! 
+- I'm an M.S. Student in the Graduate School of Data Science at KAIST, under the supervision of **Prof. Joyce Jiyoung Whang** at the **Big Data Intelligence Lab** (BDI Lab).
 My interests lie in data analysis in corporate environments and solving real-world problems using Multimodal models.
 - Business && Computer science. Studying both hard to get business implications by using Data and artificial intelligence.
 - [**Homepage**](https://eidophor.github.io)
